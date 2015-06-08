@@ -6,4 +6,7 @@ Test project
 3. CoMMIT
 4. COMMIT master
 
-change in clone
+
+
+
+final merge
